@@ -2,6 +2,8 @@
 
 This project is a simple AI chatbot application that uses natural language processing models to interact with users in a conversational format.
 
+![Chatbot Screenshot](https://github.com/vijaygodhasara/simple_chatbot_AI_app/blob/main/chatbot_app.png)
+
 ## Features
 
 - Simple text-based chatbot that can interact with users.
